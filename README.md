@@ -32,41 +32,12 @@ I don't know what we're going to build yet, what else was I supposed to call it?
 
 # Code Of Conduct #
 
-This project has a code of conduct around contribution. It is idealogically the same as any event's code of conduct in that its intent is to make the project a safe, inclusive space for all people. This is going to require some research and time to develop. Pull requests / discussion are very much welcomed. I think the [Django Code of Conduct](https://www.djangoproject.com/conduct/) is a good starting point. Things that are important to me
+We will need one. This is, to me, the most important part of the project. It defines how we treat each other, which is *what this entire project is all about*. I've been recently throwing around mentally the idea that all open source projects should have the equivalent of an HR department.
 
-* Zero tolerance
-* How to fire people
-* Specific examples of bad behavior
-* Managing conflict
-* How to take criticism
-* Other stuff
-
-I've been recently throwing around mentally the idea that all open source projects should have the equivalent of an HR department.
-
-Again, this is, to me, the most important part of the project. It defines how we treat each other, which is *what this entire project is all about*.
-
-I also recently saw a Twitter thread from Isaac Z. Schlueter which I thought provided a really nice outline of the behavior they accept in the #nodejs IRC channel (https://twitter.com/izs/status/517217340191027200), and I  it provided a template for the following. The thing I most like about it is that it explicitly states that we are OK excluding people who don't meet our social values. That is kind of the whole point of this thing.
-
-------------------
-
-We have taken the stance in that channel that all genders races bodytypes sexualities etc are respected. That implies that Heteronormative/sexist/racist attitudes are NOT respected. 
-
-Yes, this is a political stance. Yes, this excludes some cultures and people. We are OK with this. It is on purpose.
-
-If you don't like this, find another project.
+I also recently saw a Twitter thread from Isaac Z. Schlueter which I thought provided a really nice outline of the behavior they accept in the #nodejs IRC channel (https://twitter.com/izs/status/517217340191027200).
 
 # Leadership #
-Greg Dunlap is the BDFL of the Foobar project. As the project grows an explicit organizational structure will be developed to manage such growth. The goal will be to match, as much as possible, the principles of democratic structuring as defined by Jo Freeman in her paper [The Tyranny Of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm). In short:
-
-- Delegation of authority
-- Responsibility to those who selected them
-- Distribution of authority among as many people as reasonably possible
-- Rotation of tasks among individuals
-- Allocation of tasks along rational criteria
-- Diffusion of information as frequently as possible
-- Equal access to resources
-
-Except in as much as this jibes with the whole concept of a BDFL.
+Greg Dunlap is the BDFL of the Foobar project. As the project grows an explicit organizational structure will be developed to manage such growth. The conecptual goal will be to match the principles of democratic structuring as defined by Jo Freeman in her paper [The Tyranny Of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) except in as much as this conflicts with the whole concept of a BDFL.
 
 # License #
 No idea. TBD. Might need a new one.
